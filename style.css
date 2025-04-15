@@ -12,9 +12,27 @@ padding: 15px;
     justify-content: center;
     width: 20px;
     align-items: center;
+font-size: 20px;
+width: 20px;
 
 }
 .jurandir{ 
     font-size: 20px;
 color: bisque;
+
+.jurandir {
+
+
+
+margin: 30px;
+text-align: center;
+background-color: antiquewhite;
+
+
+.item{
+
+
+padding: 8px 12px;
+border-radius: 8px;
+font-weight: bolder;
 }
